@@ -1,2 +1,2 @@
 include versioneer.py
-include qcodes/_version.py
+include roq/_version.py
